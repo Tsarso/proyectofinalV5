@@ -38,7 +38,7 @@ body {
 
 /*===================SECCION NUESTRO EQUIPO MAPA==========================*/
 #local {
-    margin-top:50px;
+    /*margin-top:50px;*/
     background-color: #f3f3f3;
     display:flex;
     justify-content: center; 
@@ -196,4 +196,11 @@ footer p{
         justify-content: center !important;
         text-align: center;
     }
+}
+
+/*======================= EQUIPO ==========================*/
+
+section#equipo {
+    margin-top: 5%;
+    margin-bottom: 30%;
 }
