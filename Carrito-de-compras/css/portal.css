@@ -17,7 +17,7 @@ body {
  }
 
  #menu a{
-     color:#3f3f3f;
+     color:#051cf3;
      
  }
 /*===================SLIDER DE IMAGENES==========================*/
@@ -116,7 +116,7 @@ body {
 /*=========================FOOTER================================*/
 
 footer {
-    background: #1b2a4e;
+    background: #144fda;
     min-height: 100px;;
 }
 footer p{

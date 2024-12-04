@@ -1,6 +1,6 @@
 
 :root{
-  --color-acento: #0f52ef;
+  --color-acento: #166ef3;
   --color-acento-claro: #0095ff33;
   --color-texto: black;
 }
@@ -40,7 +40,7 @@ a:hover:not(#cart), button:hover{
 
 /* Header */
 header{
-  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.09);
+  box-shadow: 1px 3px 5px rgba(206, 21, 21, 0.09);
   margin-bottom: 10px;
   font-size: larger;
 }
